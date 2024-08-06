@@ -30,5 +30,6 @@ A front-page clone of Amazon's website using HTML and CSS.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Made with ❤️ by Ujjwal Raj
+https://beingujjwalraj.github.io/Amazon-clone/
 
 
